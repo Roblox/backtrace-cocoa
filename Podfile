@@ -1,5 +1,9 @@
 source 'https://cdn.cocoapods.org/'
 
+# The requirement is 10.0 since one of the dependencies requires 10.0
+# Explicitly define here to avoid confusion as to the minimum OS the host application will use this framework with
+platform :ios, '10.0'
+
 # Library
 
 # Definitions
