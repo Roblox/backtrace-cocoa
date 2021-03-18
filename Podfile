@@ -1,6 +1,6 @@
 source 'https://cdn.cocoapods.org/'
 
-# Library
+# Library.
 
 # Definitions
 def shared_pods
